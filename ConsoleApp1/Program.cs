@@ -21,6 +21,7 @@ namespace ConsoleApp1
                 que.Enqueue(7);
                 que.Enqueue(8);
                 que.Enqueue(9);
+                que.Enqueue(10);
               
              
 
